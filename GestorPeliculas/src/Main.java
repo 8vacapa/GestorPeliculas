@@ -12,6 +12,6 @@ public class Main {
         gestor.cambiarDisponibilidad(2, true);
         gestor.mostrarPeliculas();
         System.out.println("Hola mundo");
-        System.out.println("Nueva funcionalidad");
+        System.out.println("Nueva funcionalidad de buscar por nombre");
     }
 }

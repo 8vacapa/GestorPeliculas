@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Lista de películas:");
         gestor.mostrarPeliculas();
-
+        System.out.println("Agregando funcionalidad 2");
         System.out.println("\nCambiando disponibilidad de ' Q paso ayer'...");
         gestor.cambiarDisponibilidad(2, true);
         gestor.mostrarPeliculas();

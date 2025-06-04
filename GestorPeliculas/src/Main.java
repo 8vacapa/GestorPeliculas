@@ -11,7 +11,7 @@ public class Main {
         System.out.println("\nCambiando disponibilidad de ' Q paso ayer'...");
         gestor.cambiarDisponibilidad(2, true);
         gestor.mostrarPeliculas();
-        System.out.println("Hola mundo");
+        System.out.println("Hola mundo!");
         System.out.println("Nueva funcionalidad de buscar por nombre");
     }
 }
